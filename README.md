@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 ## 🚀 Getting Started
 
 You can view the template directly online:  
-[Click here to view the live template](#)
+[Click here to view the live template](https://mahmoud-elabbasy.github.io/Leon-Template-One/)
