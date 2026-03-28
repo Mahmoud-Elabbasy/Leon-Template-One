@@ -26,13 +26,13 @@ A modern and responsive website template built using HTML & CSS, inspired by Elz
 
 ---
 
-## 🔗 Demo
-This is a responsive HTML & CSS template inspired by Elzero Web School.
+## 👨‍💻 Author
+- Mahmoud Elabbasy  
 
 ---
 
-## 👨‍💻 Author
-- Mahmoud Elabbasy  
+## 🔗 Demo
+This is a responsive HTML & CSS template inspired by Elzero Web School.
 
 ---
 
