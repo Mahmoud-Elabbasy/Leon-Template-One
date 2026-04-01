@@ -1,6 +1,6 @@
 # 💻 Template One
 
-A modern and responsive landing page built using HTML & CSS, inspired by the Kasper design from Elzero Web School.
+A modern and responsive landing page built using HTML & CSS, inspired by the Leon design from Elzero Web School.
 
 ---
 
