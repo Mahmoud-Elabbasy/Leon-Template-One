@@ -1,6 +1,6 @@
 # 💻 Template One
 
-A modern and responsive website template built using HTML & CSS, inspired by Elzero Web School.
+A modern and responsive landing page built using HTML & CSS, inspired by the Kasper design from Elzero Web School.
 
 ---
 
@@ -19,10 +19,16 @@ A modern and responsive website template built using HTML & CSS, inspired by Elz
 
 ---
 
+## 🎯 Project Goal
+The goal of this project was not only to recreate the design, but also to practice building a complete multi-section layout and improve my ability to structure and organize front-end code properly.
+
+---
+
 ## 🎯 What I Learned
-- Building responsive layouts  
-- Using Flexbox & Grid effectively  
-- Writing clean and maintainable CSS  
+- Handling complex layouts with multiple sections  
+- Improving responsiveness using media queries  
+- Writing cleaner and more maintainable CSS  
+- Paying attention to small design details (spacing, alignment, colors)  
 
 ---
 
@@ -34,10 +40,6 @@ A modern and responsive website template built using HTML & CSS, inspired by Elz
 ## 🔗 Demo
 This is a responsive HTML & CSS template inspired by Elzero Web School.
 
----
-
-## 📄 License
-This project is licensed under the MIT License.
 
 ---
 
@@ -45,3 +47,14 @@ This project is licensed under the MIT License.
 
 You can view the template directly online:  
 [Click here to view the live template](https://mahmoud-elabbasy.github.io/Leon-Template-One/)
+
+---
+
+## 🔗 Source Code
+Check the full code here:  
+[GitHub Repository](https://github.com/mahmoud-elabbasy/Leon-Template-One)
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
